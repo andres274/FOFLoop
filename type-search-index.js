@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"FactorialLoop"},{"p":"<Unnamed>","l":"FibonacciLoop"},{"p":"<Unnamed>","l":"FOFLoop"},{"p":"<Unnamed>","l":"OddSum"}]
